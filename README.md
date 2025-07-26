@@ -9,11 +9,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
 
-![Profile banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/your-image-name.gif)
+![Profile banner]([https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/your-image-name.gif](https://64.media.tumblr.com/ef7a494273f0bac913132a47a1d5fd99/e0f822a0aa2459a4-82/s540x810/717de7bbab583d5da8386594e599f9d4da88f0f4.gif))
 
----
-
-🎶 **Lovesick Girls – BLACKPINK (English Translation)** 🎶
 
 We are the lovesick girls  
 You can’t just end my love on your own  
