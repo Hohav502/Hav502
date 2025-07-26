@@ -9,12 +9,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
 
----
 ![Profile banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/your-image-name.gif)
 
+---
 
-
-🎶 
+🎶 **Lovesick Girls – BLACKPINK (English Translation)** 🎶
 
 We are the lovesick girls  
 You can’t just end my love on your own  
@@ -36,8 +35,6 @@ A prince is not even on my list
 Love is a drug that I quit  
 No doctor could help when I’m lovesick
 
-
----
 
 
 
