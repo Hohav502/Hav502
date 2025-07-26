@@ -3,15 +3,11 @@
 ![Profile banner](https://64.media.tumblr.com/ef7a494273f0bac913132a47a1d5fd99/e0f822a0aa2459a4-82/s540x810/717de7bbab583d5da8386594e599f9d4da88f0f4.gif)
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericva01&show_icons=true&theme=radical" alt="Eric's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericva01&layout=compact&theme=radical" alt="Eric's Top Languages" />
-</div>
 
 ---
 
 ### 🛠️ Languages & Tools:
-<img src="https://skillicons.dev/icons?i=ts,react,html,css,js,python,cpp,vscode,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=ts,react,html,css,js,c,cpp,vscode,postgres,mysql,java,spring" />
 
 ---
 
